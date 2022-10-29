@@ -4,7 +4,11 @@
         }
 
         body {
+        patch-1
              font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+            font-family: 'Times New Roman', Times, serif;
+        main
             font-size: 14px;
             font-weight: 400;
             color: #777;
@@ -53,3 +57,7 @@
         #team .card:hover i {
             color: #fff;
         }
+        patch-1
+
+        
+        main
