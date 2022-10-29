@@ -4,7 +4,7 @@
         }
 
         body {
-            font-family: 'Raleway', sans-serif;
+            font-family: 'Times New Roman', Times, serif;
             font-size: 14px;
             font-weight: 400;
             color: #777;
@@ -53,3 +53,4 @@
         #team .card:hover i {
             color: #fff;
         }
+        
