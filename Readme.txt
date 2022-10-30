@@ -12,6 +12,3 @@ Contributing
 
 We welcome all contributions to the community and are excited to welcome you aboard.
 
-License
-
-Copyright © 2022 teampejas
