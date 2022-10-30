@@ -4,16 +4,8 @@
         }
 
         body {
-        changes
-            font-family: 'Times New Roman', sans-serif;
-=======
-        patch-1
-             font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
-            font-family: 'Times New Roman', Times, serif;
-        main
-        main
-            font-size: 14px;
+        
+            font-family: 'Arial', sans-serif; font-size: 14px;
             font-weight: 400;
             color: #777;
         }
@@ -61,7 +53,4 @@
         #team .card:hover i {
             color: #fff;
         }
-        patch-1
-
         
-        main
