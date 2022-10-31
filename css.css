@@ -5,7 +5,8 @@
 
         body {
         
-            font-family: 'Times New Roman', sans-serif; font-size: 14px;
+            font-size: 14px;
+            font-family: 'Times New Roman', Times, serif;
             font-weight: 400;
             color: #777;
         }
